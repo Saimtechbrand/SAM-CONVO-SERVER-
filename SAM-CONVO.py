@@ -1,4 +1,4 @@
-#ENCODED BY : SEERAT TRICKER BRAND
+#ENCODED BY : SAIM TRICKER BRAND
 #ENCRYPTION : Py3 ZLIB
 #GITHUB : https://github.com/anaysakour
 #----------------------------------------------
